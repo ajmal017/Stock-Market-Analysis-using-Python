@@ -17,4 +17,5 @@ Trading Strategy Using MACD and Volume:
 ![alt text](https://github.com/mihird94/Stock-Market-Analysis-using-Python/blob/master/trading_strategy.png)
 
 Twitter Sentiment mapped to price movement:
+
 ![alt text](https://github.com/mihird94/Stock-Market-Analysis-using-Python/blob/master/twitter_sentiment.png)
