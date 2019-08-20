@@ -15,3 +15,18 @@ Relative Strength Index:
 Trading Strategy Using MACD and Volume:
 
 ![alt text](https://github.com/mihird94/Stock-Market-Analysis-using-Python/blob/master/trading_strategy.png)
+
+Example of Buy/Sell calls:
+
+ date	    close	company	call
+3/15/2019	275.43	TSLA	Sell
+3/4/2019	285.36	TSLA	Sell
+2/27/2019	314.74	TSLA	Buy
+2/21/2019	291.23	TSLA	Sell
+1/18/2019	302.26	TSLA	Sell
+12/17/2018	348.42	TSLA	Sell
+11/20/2018	347.49	TSLA	Sell
+10/5/2018	261.95	TSLA	Sell
+8/17/2018	305.5	TSLA	Sell
+8/2/2018	349.54	TSLA	Buy
+
